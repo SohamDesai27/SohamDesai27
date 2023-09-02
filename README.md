@@ -7,7 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- I am an experienced technology professional with a strong background in project management, technology adoption, and data analysis. As a part-time Technology Consultant at ASU Enterprise Technology, I excelled in project management using Jira and Excel, ensuring project success within scope, budget, and schedule. Collaborating across teams, I streamlined technological solution implementation and provided top-notch training and support. My tenure as a DevOps Engineer at Casepoint LLC honed my skills in CI/CD pipeline design, Docker, Kubernetes, and cloud migration, resulting in substantial cost savings. Currently, as an Office Aide at ASU College of Health Solutions, I continue to excel in project management and data analysis while contributing to effective team building and organizational efficiency.**
+- With a background as a Software Engineer- DevOps at Casepoint LLC from April 2021 to December 2022, I honed my skills in designing CI/CD pipelines, orchestrating multi-container deployments using Docker and Kubernetes, and supporting cloud migrations that resulted in significant cost savings.
+- Seeking further growth, I transitioned to become a Master's student at Arizona State University, specializing in Information Technology with a focus on Information Systems Management.
+- Concurrently, at ASU, I've been working as a part-time Technology Consultant with ASU Enterprise Technology since May 2023, where I've employed project management tools like Jira and Excel for effective project planning and execution. Additionally, as an Office Aide - Data Science Specialist at ASU College of Health Solutions.
+- I've leveraged my skills in project management and data analysis while actively contributing to team building and organizational improvements. My journey has been driven by a passion for continuous learning and growth.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohamDesai27](https://github.com/SohamDesai27)
 
