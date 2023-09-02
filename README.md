@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Soham Desai</h1>
-<h3 align="center">A Master's student at Arizona State University</h3>
+<h3 align="center">I am a Master's student at Arizona State University, pursuing a degree in Information Technology with a focus on Information Systems Management</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamdesai27&label=Profile%20views&color=0e75b6&style=flat" alt="sohamdesai27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🚀 I am actively expanding my expertise in the domains of DevOps and Machine Learning, delving deep into the intricacies of these cutting-edge fields. My aim is to cultivate a robust technical skillset, enabling me to immerse myself in the dynamic realm of technology and embark on captivating endeavors within this ever-evolving landscape.**
+- I am an experienced technology professional with a strong background in project management, technology adoption, and data analysis. As a part-time Technology Consultant at ASU Enterprise Technology, I excelled in project management using Jira and Excel, ensuring project success within scope, budget, and schedule. Collaborating across teams, I streamlined technological solution implementation and provided top-notch training and support. My tenure as a DevOps Engineer at Casepoint LLC honed my skills in CI/CD pipeline design, Docker, Kubernetes, and cloud migration, resulting in substantial cost savings. Currently, as an Office Aide at ASU College of Health Solutions, I continue to excel in project management and data analysis while contributing to effective team building and organizational efficiency.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohamDesai27](https://github.com/SohamDesai27)
 
