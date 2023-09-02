@@ -10,7 +10,7 @@
 - With a background as a Software Engineer- DevOps at Casepoint LLC from April 2021 to December 2022, I honed my skills in designing CI/CD pipelines, orchestrating multi-container deployments using Docker and Kubernetes, and supporting cloud migrations that resulted in significant cost savings.
 - Seeking further growth, I transitioned to become a Master's student at Arizona State University, specializing in Information Technology with a focus on Information Systems Management.
 - Concurrently, at ASU, I've worked as a part-time Technology Consultant with ASU Enterprise Technology during summer break, where I've employed project management tools like Jira and Excel for effective project planning and execution. Additionally, as an Office Aide at ASU College of Health Solutions.
-- I've leveraged my skills in project management and data analysis while actively contributing to team building and organizational improvements. My journey has been driven by a passion for continuous learning and growth.**
+- I've leveraged my skills in project management and data analysis while actively contributing to team building and organizational improvements. My journey has been driven by a passion for continuous learning and growth.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohamDesai27](https://github.com/SohamDesai27)
 
