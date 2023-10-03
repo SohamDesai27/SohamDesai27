@@ -3,13 +3,12 @@
 <h3 align="center">I am a Master's student at Arizona State University, pursuing a degree in Information Technology with a focus on Information Systems Management</h3>
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamdesai27&label=Profile%20views&color=0e75b6&style=flat" alt="sohamdesai27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - With a background as a Software Engineer- DevOps at Casepoint LLC (Surat, Gujarat, IN) from April 2021 to December 2022, I honed my skills in designing CI/CD pipelines, orchestrating multi-container deployments using Docker and Kubernetes, and supporting cloud migrations that resulted in significant cost savings.
 - Seeking further growth, I transitioned to become a Master's student at Arizona State University, specializing in Information Technology with a focus on Information Systems Management.
-- Concurrently, at ASU, I've worked as a part-time Technology Consultant with ASU Enterprise Technology (Phoenix, AZ) during summer break, where I've employed project management tools like Jira and Excel for effective project planning and execution. Additionally, as an Business Operations Analyst at ASU College of Health Solutions (Phoenix, AZ) .
+- Concurrently, at ASU, I've worked as a part-time Technology Consultant with ASU Enterprise Technology (Phoenix, AZ) during summer break, where I've employed project management tools like Jira and Excel for effective project planning and execution. Additionally, as an Business Aide at ASU College of Health Solutions (Phoenix, AZ) .
 - I've leveraged my skills in project management and data analysis while actively contributing to team building and organizational improvements. My journey has been driven by a passion for continuous learning and growth.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohamDesai27](https://github.com/SohamDesai27)
