@@ -6,11 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- With a background as a Software Engineer- DevOps at Casepoint LLC (Surat, Gujarat, IN) from April 2021 to December 2022, I honed my skills in designing CI/CD pipelines, orchestrating multi-container deployments using Docker and Kubernetes, and supporting cloud migrations that resulted in significant cost savings.
-- Seeking further growth, I transitioned to become a Master's student at Arizona State University, specializing in Information Technology with a focus on Information Systems Management.
-- Concurrently, at ASU, I've worked as a part-time Technology Consultant with ASU Enterprise Technology (Phoenix, AZ) during summer break, where I've employed project management tools like Jira and Excel for effective project planning and execution.
-- Currently working as a part-time Business Operation Analyst at ASU College of Health Solutions, I've been instrumental in enhancing data-driven decision-making. I've created insightful Tableau dashboards and Excel pivot charts to uncover vital trends and patterns, improving our ability to make informed choices. Additionally, I've streamlined communication by reintroducing the ServiceNow ticketing system, ensuring that concerns from different departments are efficiently addressed.
-- I've leveraged my skills in project management and data analysis while actively contributing to team building and organizational improvements. My journey has been driven by a passion for continuous learning and growth.
+- As a Software Engineer with Casepoint LLC in India from April 2021 to December 2022, I specialized in software development and in DevOps while building CI/CD pipelines, managing Docker and Kubernetes deployments, and helping with cost-effective cloud migrations.
+- I'm now a Master's student at Arizona State University, focusing on Information Systems Management. Alongside my studies, I've been a part-time Technology Consultant with ASU Enterprise Technology in Phoenix. I've used tools like Jira and Excel for effective project management.
+- Currently, I'm working part-time as a Business Operation Analyst at ASU College of Health Solutions. I've improved decision-making with data analysis and machine learning to extract data-driven insights.
+- Throughout my journey, I've been committed to learning, team building, and making organizations better.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohamDesai27](https://github.com/SohamDesai27)
 
