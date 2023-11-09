@@ -8,7 +8,7 @@
 
 - As a Software Engineer with Casepoint LLC in India from April 2021 to December 2022, I specialized in software development and in DevOps while building CI/CD pipelines, managing Docker and Kubernetes deployments, and helping with cost-effective cloud migrations.
 - I'm now a Master's student at Arizona State University, focusing on Information Systems Management. Alongside my studies, I've been a part-time Technology Consultant with ASU Enterprise Technology in Phoenix. I've used tools like Jira and Excel for effective project management.
-- Currently, I'm working part-time as a Business Operation Analyst at ASU College of Health Solutions. I've improved decision-making with data analysis and machine learning to extract data-driven insights.
+- Currently, I'm working part-time as a Business Analyst Aide at ASU College of Health Solutions. I've improved decision-making with data analysis and machine learning to extract data-driven insights.
 - Throughout my journey, I've been committed to learning, team building, and making organizations better.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohamDesai27](https://github.com/SohamDesai27)
