@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Soham Desai</h1>
 <h3 align="center">I am a Master's student at Arizona State University, pursuing a degree in Information Technology with a focus on Information Systems Management</h3>
-<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
