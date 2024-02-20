@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+-I have started working as a Devops intern at Blue yonder, where I have learned a wide range of skills and concepts crucial for DevOps practices, including CI/CD pipelines, IaC with Terraform or CloudFormation, Docker containerization, Kubernetes orchestration, monitoring with Prometheus and ELK stack, and cloud services like AWS and Azure. I have also learned about collaboration, automation, agile methodologies, and continuous improvement and learning.
 - As a Software Engineer with Casepoint LLC in India from April 2021 to December 2022, I specialized in software development and in DevOps while building CI/CD pipelines, managing Docker and Kubernetes deployments, and helping with cost-effective cloud migrations.
 - I'm now a Master's student at Arizona State University, focusing on Information Systems Management. Alongside my studies, I've been a part-time Technology Consultant with ASU Enterprise Technology in Phoenix. I've used tools like Jira and Excel for effective project management.
 - Currently, I'm working part-time as a Business Analyst Aide at ASU College of Health Solutions. I've improved decision-making with data analysis and machine learning to extract data-driven insights.
